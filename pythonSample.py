@@ -1,4 +1,2 @@
 print ("Hello, Python!")
-print ("-----------------")
-print ("Learning Python is easy!")
-print ("-----------------")
+print ("I'm new")
